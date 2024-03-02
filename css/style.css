@@ -112,6 +112,33 @@ li:hover{
     transition:  all 1s ease-out;
 }
 
+.cv-btn1{
+    padding-top: 56px;
+    text-align: center;
+    margin: 2px 541px;
+}
+
+.cv-btn1 button{
+    background-color: #e91e63;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 13.5px;
+    font-weight: bold;
+    padding: 10px 33px;
+    margin: 3px 10px;
+    cursor: pointer;
+    /* line-height: 1px; */
+    font-family: 'Mukta', sans-serif;
+}
+
+.cv-btn1 button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition:  all 1s ease-out;
+}
+
+
 .arrow-btn{
     display: flex;
     justify-content: center;
